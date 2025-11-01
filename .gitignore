@@ -1,1 +1,10 @@
 #There are certain 3 rules in order to use .gitignore file
+
+# ignore a single file
+demofile.txt
+
+# ignore all files within the 'build' folder
+build/
+
+# ignore all files that has the extension
+*.log
